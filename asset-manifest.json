@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/blooddonationapp/static/css/main.7b68d61a.css",
+    "main.js": "/blooddonationapp/static/js/main.e9fd2611.js",
+    "index.html": "/blooddonationapp/index.html",
+    "main.7b68d61a.css.map": "/blooddonationapp/static/css/main.7b68d61a.css.map",
+    "main.e9fd2611.js.map": "/blooddonationapp/static/js/main.e9fd2611.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b68d61a.css",
+    "static/js/main.e9fd2611.js"
+  ]
+}
