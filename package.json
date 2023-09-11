@@ -2,7 +2,7 @@
   "homepage": "https://mayank123904.github.io/blooddonationapp",
   "name": "blooddonationapp",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "type": "module",
   "dependencies": {
     "axios": "^1.5.0",
